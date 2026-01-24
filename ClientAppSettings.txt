@@ -1,0 +1,12 @@
+{
+  "FFlagHandleAltEnterFullscreenManually": "False",
+  "FLogNetwork": "7",
+  "FFlagFixGraphicsQuality": "True",
+  "DFIntCanHideGuiGroupId": "32380007",
+  "DFIntCullFactorPixelThresholdMainViewHighQuality": "1",
+  "DFIntCullFactorPixelThresholdMainViewLowQuality": "10000",
+  "DFIntCullFactorPixelThresholdShadowMapHighQuality": "10000",
+  "DFIntCullFactorPixelThresholdShadowMapLowQuality": "10000",
+  "FFlagAccessoryAdjustmentEnabled5": "True",
+  "FFlagAXAccessoryAdjustmentIXPEnabledForAll": "True"
+}
